@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Ramil Álvarez</h1>
-<h3 align="center">Soy un estudiante de desarrollo de aplicaciones web.</h3>
+<h3 align="center">I am a student of Web Application Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxquu1&label=Profile%20views&color=0e75b6&style=flat" alt="nxquu1" /> </p>
 
