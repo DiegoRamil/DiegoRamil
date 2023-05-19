@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Ramil Álvarez</h1>
-<h3 align="center">I am a student of Web Application Development.</h3>
+<h3 align="center">Soy un estudiante de desarrollo de aplicaciones web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxquu1&label=Profile%20views&color=0e75b6&style=flat" alt="nxquu1" /> </p>
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/nxquu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nxquu1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21302902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21302902" height="30" width="40" /></a>
 </p>
 
