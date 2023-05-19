@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Ramil Álvarez</h1>
 <h3 align="center">Soy un estudiante de desarrollo de aplicaciones web.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nxquu1&label=Profile%20views&color=0e75b6&style=flat" alt="nxquu1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nxquu1&label=Profile%20views&color=0e75b6&style=flat" alt="nxquu1" /> </p>
 
 - 🔭 I’m currently working on [CareMeet](https://github.com/nxquu1/caremeet)
 
