@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Ramil Álvarez</h1>
-<h3 align="center">I'm a web developer student.</h3>
+<h3 align="center">Web developer student.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nxquu1&label=Profile%20views&color=0e75b6&style=flat" alt="nxquu1" /> </p>
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **diegoramilalvarez@gmail.com**
 
-- ⚡ Fun fact **I can't understand how some people like graphic design.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
