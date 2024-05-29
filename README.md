@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego Ramil Álvarez</h1>
-<h3 align="center">Web developer student.</h3>
+<h3 align="center">Junior Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DiegoRamil&label=Profile%20views&color=0e75b6&style=flat" alt="DiegoRamil" /> </p>
 
-- 🔭 I’m currently working on [CareMeet](https://github.com/nxquu1/caremeet)
-
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 Currently working with **Spring Boot and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nxquu1?tab=repositories](https://github.com/DiegoRamil?tab=repositories)
 
