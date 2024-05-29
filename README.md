@@ -20,4 +20,4 @@
 
 <h3 align="left">Languages used</h3>
 
-<figure><img src="https://wakatime.com/share/@667bba91-5c18-4a5d-b6e9-808db19286ee/0b5b2160-5991-4c6f-9ae2-f4fbdb24d1a5.svg" alt="languages used"/>></figure>
+<figure><img src="https://wakatime.com/share/@667bba91-5c18-4a5d-b6e9-808db19286ee/0b5b2160-5991-4c6f-9ae2-f4fbdb24d1a5.svg" alt="languages used"/></figure>
